@@ -1,0 +1,6 @@
+# Ignore env
+.env
+# Ignore .venv
+.venv
+# Ignore .vscode
+.vscode

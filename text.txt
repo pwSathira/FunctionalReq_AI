@@ -1,0 +1,20 @@
+A laundromat is a service business that allows people 
+to bring their soiled laundry to the store, use the washing machines
+and the drying machines, and leave with clean clothes. 
+The classical model is that customers visit the facility
+and check for availability. Payment is by coins or, in some 
+recent models, by card. The customer requests work on the automation of 
+services of the laundromat to allow its users to enjoy high flexibility 
+and add to their time efficiency through scheduling, reservation, notifications, 
+payment. You are asked to help automate the services offered by the laundromat. 
+The proposed automation will focus on the following operational aspects: 
+1. Washing and Drying Machine transformation: Each machine should be equipped 
+with the necessary sensors to read its status (ON/OFF), amount of power consumed,
+locked/unlocked, etc. 2. Security: the facility should be under continuous monitoring 
+using cameras. This should allow the owner to monitor the activities in the facility and the clients to check on the machines they are using. 3. Scheduling: A client should be able to book a specific machine (washer and or dryer) for a number of cycles (cannot exceed 2 consecutive cycles per machine). 4. Payment: Clients should be allowed two modes of payment: a. The classical coin based method, where each machine will be equipped with a payment interface. b. The online payment method using a credit/debit card when completing the booking. In both cases, payment must be made before the machine can be used. 5. A repository of information on machines (records of usage, maintenance, revenue, etc.), clients, and bills (water, electricity). 6. Communication: The facility should be covered by an uninterrupted internet service to allow continuous access to the services of the facility. 
+7. Feedback and Reviews: Clients should be able to provide feedback and 
+reviews on the machines and on the facility. The administration will have the 
+right to respond to reviews. The proposed solution will be implemented in the 
+context of a Web/Mobile application that can support that automation on top of a networking model
+ that involves many of the items in the included image (an existing solution). 
+Figure 1 shows a sample topology of the proposed solution.
